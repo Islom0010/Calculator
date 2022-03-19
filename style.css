@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: whitesmoke;
+  background-image: linear-gradient(rgb(235, 103, 103), rgb(223, 134, 33), rgb(128, 238, 128));
 }
 
 .calculator {
